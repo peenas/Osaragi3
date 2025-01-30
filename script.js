@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
       scrollTrigger: {
         trigger: ".wrapper",
         start: "top top",
-        end: "+=150%",
+        end: "+=100%",
         pin: true,
         scrub: true,
         markers: true
